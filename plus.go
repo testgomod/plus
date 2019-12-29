@@ -2,6 +2,6 @@
 package plus
 
 // Plus方法返回两个整型相加的结果
-func Plus(a, b int) int {
+func Plus(a, b, c int) int {
     return a + b
 }
